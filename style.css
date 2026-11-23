@@ -5,6 +5,17 @@
 	font-style: normal;
 }
 
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body {
+	background-image: url("images/Bumpy_Sky-Blue_04-1024x512.png");
+}
+
 h1 {
 	font-family: "Cooper Black", serif;
+	color: green;
 }
