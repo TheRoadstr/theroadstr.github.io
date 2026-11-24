@@ -5,11 +5,27 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: "Comic Sans";
+	src: url("fonts/Ldfcomicsans-jj7l.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Comic Sans Bold";
+	src: url("fonts/Ldfcomicsansbold-zgma.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
 * {
 	box-sizing: border-box;
 }
 
 body {
+	font-family: "Comic Sans", serif;
+	background: linear-gradient(120deg, #53ADF9, #A2D3FC);
 	background-image: url("images/Bumpy_Sky-Blue_04-1024x512.png");
 	margin: 0;
 }
@@ -36,8 +52,9 @@ section {
 }
 
 section h2 {
+	font-family: "Comic Sans Bold", serif;
 	margin-top: 0;
-	color: green;
+	color: lime;
 }
 
 footer {
