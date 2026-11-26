@@ -1,20 +1,20 @@
 @font-face {
 	font-family: "Cooper Black";
-	src: url("fonts/COOPBL.TTF") format("truetype");
+	src: url(fonts/COOPBL.TTF) format(truetype);
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Comic Sans";
-	src: url("fonts/Ldfcomicsans-jj7l.ttf") format("truetype");
+	src: url(fonts/Ldfcomicsans-jj7l.ttf) format(truetype);
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: "Comic Sans Bold";
-	src: url("fonts/Ldfcomicsansbold-zgma.ttf") format("truetype");
+	src: url(fonts/Ldfcomicsansbold-zgma.ttf) format(truetype);
 	font-weight: normal;
 	font-style: normal;
 }
@@ -46,10 +46,10 @@ main {
 
 section {
 	background: rgba(255, 255, 255, 0.5);
-	border-radius: 12px;
+	border-radius: 2px;
 	padding: 24px;
 	margin-bottom: 24px;
-	box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+	box-shadow: 0 10px 25px rgba(15, 23, 42, 0.1);
 }
 
 section h2 {
