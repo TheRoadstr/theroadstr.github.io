@@ -26,14 +26,14 @@
 body {
 	font-family: "Comic Sans", serif;
 	background: linear-gradient(120deg, #53ADF9, #A2D3FC);
-	background-image: url("images/Bumpy_Sky-Blue_04-1024x512.png");
+	background-image: url("images/Bumpy_Sky-Sunset_03-1024x512.png");
 	margin: 0;
 }
 
 header {
 	font-family: "Cooper Black", serif;
 	font-size: 3rem;
-	color: green;
+	color: white;
 	padding: 60px 20px;
 	text-align: center;
 }
